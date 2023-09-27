@@ -1,0 +1,3 @@
+Below command will change wsl default user to root
+
+# ubuntu2204 config --default-user root
